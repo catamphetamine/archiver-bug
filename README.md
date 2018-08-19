@@ -1,5 +1,7 @@
 This is the illustration of `archiver` package breaking on adding non-tiny files to an archive.
 
+https://github.com/archiverjs/node-archiver/issues/336
+
 ```
 npm install
 node index.js
